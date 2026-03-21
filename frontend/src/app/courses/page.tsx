@@ -1,4 +1,3 @@
-import Image from "next/image";
 import Link from "next/link";
 
 export default function Home() {
@@ -10,7 +9,7 @@ export default function Home() {
             <h2 className="mb-4 text-center text-2xl font-bold text-gray-800 md:mb-6 lg:text-3xl">
               课程包（29365个）
             </h2>
-            <p className="mx-auto max-w-screen-md text-center text-gray-500 md:text-lg">
+            <p className="mx-auto max-w-3xl text-center text-gray-500 md:text-lg">
               由EVE Frontier 官方、联盟和 Builder 提供
             </p>
           </div>
@@ -37,12 +36,12 @@ export default function Home() {
                 <p className="mb-2 text-gray-500">
                   先读懂 EVE Frontier 这款游戏：玩家在争夺什么、设施为什么重要、位置/战损/物流/经济如何串成完整玩法
                 </p>
-                <a
+                <Link
                   className="font-bold text-indigo-500 transition duration-100 hover:text-indigo-600 active:text-indigo-700"
                   href="/courses/eve-frontier-101"
                 >
                   {'Play->'}
-                </a>
+                </Link>
               </div>
             </div>
             <div className="flex gap-4 md:gap-6">
@@ -68,12 +67,12 @@ export default function Home() {
                   To create objects, submit transactions, and start building an application on Sui, first you must install Sui. This installation includes the Sui CLI, a tool that creates and manages address
                    balances, builds and publishes smart contracts, and queries information from the network.
                 </p>
-                <a
+                <Link
                   className="font-bold text-indigo-500 transition duration-100 hover:text-indigo-600 active:text-indigo-700"
                   href="#"
                 >
                   {'Play->'}
-                </a>
+                </Link>
               </div>
             </div>
             <div className="flex gap-4 md:gap-6">
@@ -98,12 +97,12 @@ export default function Home() {
                 <p className="mb-2 text-gray-500">
                   先读懂 EVE Frontier 这款游戏：玩家在争夺什么、设施为什么重要、位置/战损/物流/经济如何串成完整玩法
                 </p>
-                <a
+                <Link
                   className="font-bold text-indigo-500 transition duration-100 hover:text-indigo-600 active:text-indigo-700"
                   href="/courses/eve-frontier-101"
                 >
                   {'Play->'}
-                </a>
+                </Link>
               </div>
             </div>
             <div className="flex gap-4 md:gap-6">
@@ -129,12 +128,12 @@ export default function Home() {
                   To create objects, submit transactions, and start building an application on Sui, first you must install Sui. This installation includes the Sui CLI, a tool that creates and manages address
                    balances, builds and publishes smart contracts, and queries information from the network.
                 </p>
-                <a
+                <Link
                   className="font-bold text-indigo-500 transition duration-100 hover:text-indigo-600 active:text-indigo-700"
                   href="#"
                 >
                   {'Play->'}
-                </a>
+                </Link>
               </div>
             </div>
             <div className="flex gap-4 md:gap-6">
@@ -159,12 +158,12 @@ export default function Home() {
                 <p className="mb-2 text-gray-500">
                   先读懂 EVE Frontier 这款游戏：玩家在争夺什么、设施为什么重要、位置/战损/物流/经济如何串成完整玩法
                 </p>
-                <a
+                <Link
                   className="font-bold text-indigo-500 transition duration-100 hover:text-indigo-600 active:text-indigo-700"
                   href="/courses/eve-frontier-101"
                 >
                   {'Play->'}
-                </a>
+                </Link>
               </div>
             </div>
             <div className="flex gap-4 md:gap-6">
@@ -190,12 +189,12 @@ export default function Home() {
                   To create objects, submit transactions, and start building an application on Sui, first you must install Sui. This installation includes the Sui CLI, a tool that creates and manages address
                    balances, builds and publishes smart contracts, and queries information from the network.
                 </p>
-                <a
+                <Link
                   className="font-bold text-indigo-500 transition duration-100 hover:text-indigo-600 active:text-indigo-700"
                   href="#"
                 >
                   {'Play->'}
-                </a>
+                </Link>
               </div>
             </div>
             <div className="flex gap-4 md:gap-6">
@@ -220,12 +219,12 @@ export default function Home() {
                 <p className="mb-2 text-gray-500">
                   先读懂 EVE Frontier 这款游戏：玩家在争夺什么、设施为什么重要、位置/战损/物流/经济如何串成完整玩法
                 </p>
-                <a
+                <Link
                   className="font-bold text-indigo-500 transition duration-100 hover:text-indigo-600 active:text-indigo-700"
                   href="/courses/eve-frontier-101"
                 >
                   {'Play->'}
-                </a>
+                </Link>
               </div>
             </div>
             <div className="flex gap-4 md:gap-6">
@@ -251,12 +250,12 @@ export default function Home() {
                   To create objects, submit transactions, and start building an application on Sui, first you must install Sui. This installation includes the Sui CLI, a tool that creates and manages address
                    balances, builds and publishes smart contracts, and queries information from the network.
                 </p>
-                <a
+                <Link
                   className="font-bold text-indigo-500 transition duration-100 hover:text-indigo-600 active:text-indigo-700"
                   href="#"
                 >
                   {'Play->'}
-                </a>
+                </Link>
               </div>
             </div>
             <div className="flex gap-4 md:gap-6">
