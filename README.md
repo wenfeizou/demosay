@@ -22,6 +22,10 @@ DemoSay 有效促进了像 EVE Frontier 游戏、Sui 链社区等的传播、拉
 
 官方或者 Builder 将相应 NFT 编程进智能合约 (Smart Assemblies)，给予新手玩家通行的便利、费用的优惠等，以此奖励玩家对游戏和智能合约(Smart Assemblies)的支持。
 
+## DemoSay 的竞争优势
+
+![DemoSay首页](./docs/images/advantage.jpg)
+
 ## 未来计划
 
 - EVE Frontier 玩家通过 EVE Vault 登录后通过观看 EVE Frontier 提供的 Demo，可以获得 EVE Token(未来会由官方发行)。
