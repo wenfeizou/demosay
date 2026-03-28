@@ -91,7 +91,7 @@ export function HomePage() {
                 DemoSay
               </p>
               <h1 className="mb-8 text-4xl font-bold text-slate-50 sm:text-5xl md:mb-12 md:text-6xl">
-                You Demo, I Say
+                You Demo. I Say.
               </h1>
               <p className="mb-3 leading-relaxed text-slate-300 md:mb-6 lg:w-4/5 xl:text-lg">
                 DemoSay 是一个基于 Sui 链的游戏化的互动 Demo 平台。
