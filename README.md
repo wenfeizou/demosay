@@ -1,69 +1,77 @@
+🇨🇳 [点击这里查看中文版本](README_CN.md)
+
 # DemoSay
 
-DemoSay 是一个基于 Sui 链的游戏化的互动 Demo 平台。
+DemoSay is a gamified interactive Demo platform based on the **Sui Network**.
 
-## 项目概况
+## Project Overview
 
-- 名称：DemoSay
-- Slogan: You Demo. I Say.
-- Website: www.demosay.com
+- **Name:** DemoSay
+- **Slogan:** You Demo. I Say.
+- **Website:** [www.demosay.com](https://www.demosay.com)
 
-## 游戏化的交互方式
+## Gamified Interaction
 
-在 DemoSay，发布者以文本、图片、表格、流程图、视频等形式发布 Demo，用于演示游戏玩法、产品的功能特点、解决方案、技术流程等，用户通过输入“i get it"表示有效观看了该 Demo，从而获得 Sui、EVE 等 token 作为奖励。
+On DemoSay, publishers release Demos in the form of text, images, tables, flowcharts, videos, etc., to demonstrate gameplay, product features, solutions, and technical processes. Users signal that they have effectively viewed the Demo by typing **"i get it"**, thereby earning tokens such as **Sui** and **EVE** as rewards.
 
-## 商业价值
+## Commercial Value
 
-DemoSay 有效促进了像 EVE Frontier 游戏、Sui 链社区等的传播、拉新和留存。
+DemoSay effectively promotes the dissemination, user acquisition, and retention of communities like **EVE Frontier** and the **Sui** ecosystem.
 
-## 对 EVE Frontier 游戏的推广作用
+## Promotion for EVE Frontier
 
-作为 EVE Frontier 新手玩家，通过 "You Demo. I Say." 的独特的游戏化的方式查看官方(CCP)和游戏内 Builder 提供的各种 Demo 包，快速了解游戏内容和各种玩法，同时在 Sui 链获得记录学习成果的NFT。
+As a new player in EVE Frontier, you can quickly understand the game content and various mechanics by viewing the official (CCP) and in-game Builder-provided Demo packages through the unique gamified method of "You Demo. I Say." Simultaneously, you receive an NFT on the Sui chain recording your learning achievements.
 
-官方或者 Builder 将相应 NFT 编程进智能合约 (Smart Assemblies)，给予新手玩家通行的便利、费用的优惠等，以此奖励玩家对游戏和智能合约(Smart Assemblies)的支持。
+The official team or Builders can code these NFTs into Smart Contracts (Smart Assemblies), offering new players conveniences such as access permissions or fee discounts, thereby rewarding players for supporting the game and Smart Contracts.
 
-## DemoSay 的竞争优势
+## Competitive Advantage
 
-![DemoSay首页](./docs/images/advantage.jpg)
+![DemoSay home page](./docs/images/advantage.jpg)
 
-## 未来计划
+## Future Plans
 
-- EVE Frontier 玩家通过 EVE Vault 登录后通过观看 EVE Frontier 提供的 Demo，可以获得 EVE Token(未来会由官方发行)。
-- 开放接口，供 EVE Frontier Builder 建造智能合约 (Smart Assemblies)时使用。
-- 增加 Terminal UI 交互方式。
-- 通过 Slash Commands 接入 AI Agent，用户可深入了解 Demo 演示的场景和功能等。
-- 增加移动端支持。
+- After logging in via **EVE Vault**, EVE Frontier players can earn **EVE Tokens** (to be issued officially in the future) by watching EVE Frontier-provided Demos.
+- Open APIs for **EVE Frontier Builders** to use when building Smart Contracts (Smart Assemblies).
+- Add **Terminal UI** interaction methods.
+- Integrate **AI Agents** via Slash Commands, allowing users to gain a deeper understanding of the scenarios and functions demonstrated in the Demos.
+- Add support for **Mobile** devices.
 
-## 用户群体
+## Target Audience
 
-新手玩家
+New players.
 
-## 技术栈
+#### Tech Stack
 
-- Demo 包存储在 walrus
-- Sui
-- zkLogin
+- **Demo Storage:** Walrus
+- **Blockchain:** Sui
+- **Authentication:** zkLogin
 
-## 经济模型
+## Economic Model
 
-- 方便游戏中的公会/联盟，根据需要去拉不同方向、不同层次的新手玩家。
-- 官方吸引新玩家加入
-- builder 推广智能合约、玩法，吸引新用户参与其建造的基础设施等
+- Facilitates in-game guilds/alliances to attract new players of different levels and directions based on their specific needs.
+- Helps the official team attract new players.
+- Assists builders in promoting Smart Contracts and gameplay to attract new users to participate in their infrastructure.
 
-## DemoSay 的玩法
+## How to Play DemoSay
 
-### 进入首页，点击菜单 Demo Packages
+*(Image: DemoSay Interface Flow)*
+
+1. **Select a Package**
+2. **Select a Demo**
+3. **Start Playing DemoSay**
+
+### Visit Home Page
 
 ![DemoSay首页](./docs/images/homepage.jpg)
 
-### 选择一个 Package
+### Select a Package
 
 ![DemoSay首页](./docs/images/demo-packages.jpg)
 
-### 选择一个 Demo
+### Select a Demo
 
 ![DemoSay首页](./docs/images/some-package.jpg)
 
-### 开始 Play DemoSay
+### Start Playing DemoSay
 
 ![DemoSay首页](./docs/images/play.jpg)
